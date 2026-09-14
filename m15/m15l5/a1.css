@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.wrapper {
+    background-color: white;
+    width: 400px;
+    margin: 100px auto;
+    padding: 40px;
+    border-radius: 15px;
+}
+
+h1 {
+    font-size: 40px;
+    color: darkblue;
+}
+
+p {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+button {
+    padding: 12px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
